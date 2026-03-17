@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kirill
 
-<!--
-**KirKruglov/KirKruglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CPO with 10+ years in product. I apply AI systematically — not as a tool, but as a working layer for product strategy, analytics, and operations.
 
-Here are some ideas to get you started:
+Most of what I publish here is built from real workflows: structured frameworks, reusable prompts, and tested setups for working with AI agents through standard chat interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+
+- AI collaboration frameworks for non-technical practitioners
+- Claude skills and reusable prompt systems
+- Systematic approaches to product analytics and experimentation with AI
+- Workflows that replace ad-hoc prompting with structured, repeatable processes
+
+## Repositories
+
+**[claude-skills-kit]([link](https://github.com/KirKruglov/claude-skills-kit))** — A personal library of Claude skills.  
+Structured, reusable, built for product and operations work. No code required.
+
+*More coming.*
+
+## Background
+
+- Product strategy, behavioral analytics, experimentation design
+- Domains: fintech, e-commerce, subscription products
+- Stack: Python, BI tools, Cursor
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kirkruglov/) · [Telegram](https://t.me/temporitmika)
