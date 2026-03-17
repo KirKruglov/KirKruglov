@@ -15,6 +15,7 @@ Most of what I publish here is built from real workflows: structured frameworks,
 
 **[claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit)** — A personal library of Claude skills.  
 Structured, reusable, built for product and operations work. No code required.
+**[ai-workspace-os](https://github.com/KirKruglov/ai-workspace-os)** - A structured operating system for non-technical professionals working with AI agents.
 
 *More coming.*
 
