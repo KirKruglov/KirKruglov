@@ -13,7 +13,7 @@ Most of what I publish here is built from real workflows: structured frameworks,
 
 ## Repositories
 
-**[claude-skills-kit]([[link](https://github.com/KirKruglov/claude-skills-kit))](https://github.com/KirKruglov/claude-skills-kit))** — A personal library of Claude skills.  
+**[claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit)** — A personal library of Claude skills.  
 Structured, reusable, built for product and operations work. No code required.
 
 *More coming.*
