@@ -13,6 +13,8 @@ Most of what I publish here is built from real workflows: structured frameworks,
 
 ## Repositories
 
+**[claude-project-manager](https://github.com/KirKruglov/claude-project-manager)** — AI Project Manager plugin for Claude Cowork — full project lifecycle automation
+
 **[claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit)** — A personal library of Claude skills.  
 Structured, reusable, built for product and operations work. No code required.  
 
@@ -24,7 +26,6 @@ Structured, reusable, built for product and operations work. No code required.
 
 - Product strategy, behavioral analytics, experimentation design
 - Domains: fintech, e-commerce, subscription products
-- Stack: Python, BI tools, Cursor
 
 ## Connect
 
