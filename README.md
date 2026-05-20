@@ -11,17 +11,6 @@ Most of what I publish here is built from real workflows: structured frameworks,
 - Systematic approaches to product analytics and experimentation with AI
 - Workflows that replace ad-hoc prompting with structured, repeatable processes
 
-## Repositories
-
-**[claude-project-manager](https://github.com/KirKruglov/claude-project-manager)** — AI Project Manager plugin for Claude Cowork — full project lifecycle automation
-
-**[claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit)** — A personal library of Claude skills.  
-Structured, reusable, built for product and operations work. No code required.  
-
-**[ai-workspace-os](https://github.com/KirKruglov/ai-workspace-os)** - A structured operating system for non-technical professionals working with AI agents.
-
-*More coming.*
-
 ## Background
 
 - Product strategy, behavioral analytics, experimentation design
